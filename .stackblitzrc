@@ -1,3 +1,3 @@
 {
-  startCommand: "npx ember-cli@latest addon my-addon -b @embroider/addon-blueprint --typescript --pnpm --skip-npm";
+  "startCommand": "npx ember-cli@latest addon my-addon -b @embroider/addon-blueprint --typescript --pnpm --skip-npm";
 }
